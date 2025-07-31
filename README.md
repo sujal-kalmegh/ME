@@ -13,6 +13,6 @@ Developer skilled in C, C++, and Java, currently focusing on Data Structures and
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujal-kalmegh&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SKalmegh39&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sujal-kalmegh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
